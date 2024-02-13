@@ -1,6 +1,4 @@
-#####################################################
-############## EXÁMEN DE INSUFICIENCIA ##############
-#####################################################
+Examen de insuficiencia de Programación orientada a objetos 1er año de Ingeniería Informática.
 
 Crearemos una clase llamada Libro con las siguientes características:
 
